@@ -1036,6 +1036,4 @@ public class GTMachineUtils {
                     tiers);
         }
     }
-
-    public static void init() {}
 }
